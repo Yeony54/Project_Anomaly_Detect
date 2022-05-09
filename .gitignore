@@ -1,3 +1,4 @@
 data/*
 tfrecords_0428/*
 model/*
+ckpt/*

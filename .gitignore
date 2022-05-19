@@ -2,3 +2,4 @@ data/*
 tfrecords_0428/*
 model/*
 ckpt/*
+model_b45F/*
